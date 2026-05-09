@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝   ╚═╝   ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-### Full-Stack Developer · Egypt 🇪🇬
+### Full-Stack Developer · Electrical Engineer
 
 *Building things that live on the internet*
 
@@ -25,7 +25,6 @@ Hey, I'm Ayman — a full-stack developer from Egypt who loves turning ideas int
 
 ```javascript
 const ayman = {
-  location: "Egypt 🇪🇬",
   role: "Full-Stack Developer",
   focus: ["Web Apps", "APIs", "Clean UI"],
   currentlyLearning: "Always something new...",
@@ -65,9 +64,9 @@ const ayman = {
 
 <div align="center">
 
-![Ayman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AymanYasser&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AymanYasser&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AymanYasser&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AymanYasser&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)](https://github.com/AymanYasser)
 
 </div>
 
